@@ -1,7 +1,7 @@
 ST2-plugin-Insert-File-Here
 ===========================
 
-This is a plugin for Sublime Text 2 that inserts the contents of a file / template (e.g., *.txt, *.tex, etc.) at the current caret position.
+This is a plugin for Sublime Text 2 (OSX Mountain Lion) that inserts the contents of a file / template (e.g., *.txt, *.tex, etc.) at the current caret position.
 
 It is an unofficial modification of https://github.com/mneuhaus/SublimeFileTemplates
 
